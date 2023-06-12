@@ -33,12 +33,13 @@ print("Predicted CO@ for the corresponding weight and volume",predictedCO2)
 
 ```
 ## Output:
+### Insert your output
 ![exp-10 maths ai 1](https://github.com/Anusharonselva/Multivariate-Linear-Regression/assets/119405600/b42167b0-d8d7-4c65-a3b6-26dcc31728b7)
 
 
 ![exp-10 maths ai 2](https://github.com/Anusharonselva/Multivariate-Linear-Regression/assets/119405600/384623c2-5a6b-4654-8301-22ceabf6464f)
 
-### Insert your output
+
 
 <br>
 
